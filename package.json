@@ -1,0 +1,18 @@
+{
+  "name": "examples",
+  "version": "1.0.0",
+  "main": "delete6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.18.2"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "description": ""
+}
